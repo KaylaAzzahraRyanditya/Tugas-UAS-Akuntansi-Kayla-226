@@ -1,0 +1,49 @@
+Anda diberikan sebuah dataset penjualan dari sebuah toko yang terdiri dari empat kolom berikut:
+
+Tanggal - Tanggal penjualan (format: YYYY-MM-DD)
+Nama_Produk - Nama produk yang terjual
+Jumlah_Terjual - Jumlah unit produk yang terjual
+Pendapatan - Pendapatan yang dihasilkan dari penjualan produk tersebut (dalam rupiah)
+Dataset:
+
+Tanggal	Nama_Produk	Jumlah_Terjual	Pendapatan
+2024-01-01	Produk A	10	500000
+2024-01-01	Produk B	5	250000
+2024-01-01	Produk C	7	350000
+2024-01-02	Produk A	3	150000
+2024-01-02	Produk B	8	400000
+2024-01-02	Produk C	2	100000
+2024-01-03	Produk A	6	300000
+2024-01-03	Produk B	2	100000
+2024-01-03	Produk C	5	250000
+2024-01-04	Produk A	1	50000
+2024-01-04	Produk B	4	200000
+2024-01-04	Produk C	3	150000
+Soal:
+Total Pendapatan per Produk:
+
+Hitung total pendapatan untuk setiap produk selama periode waktu yang tersedia di dataset.
+Buat visualisasi menggunakan grafik batang untuk menampilkan total pendapatan per produk.
+Produk dengan Penjualan Tertinggi:
+
+Identifikasi produk yang memiliki jumlah unit terjual tertinggi.
+Tampilkan hasil dalam bentuk tabel.
+Pendapatan Rata-rata Harian:
+
+Hitung pendapatan rata-rata per hari.
+Buat visualisasi menggunakan grafik garis untuk menampilkan pendapatan rata-rata per hari.
+Distribusi Pendapatan:
+
+Buat histogram untuk menampilkan distribusi pendapatan dari semua penjualan.
+Hubungan Jumlah Terjual dan Pendapatan:
+
+Buat scatter plot untuk menunjukkan hubungan antara jumlah terjual dan pendapatan.
+Berikan analisis apakah ada korelasi yang signifikan antara jumlah unit terjual dan pendapatan.
+Tren Penjualan Harian:
+
+Buat grafik garis untuk menunjukkan tren penjualan harian (jumlah terjual) untuk setiap produk.
+Berikan analisis singkat tentang tren penjualan yang terlihat dari grafik.
+Pendapatan per Tanggal:
+
+Hitung total pendapatan untuk setiap tanggal.
+Buat visualisasi menggunakan grafik batang untuk menampilkan total pendapatan per tanggal.
